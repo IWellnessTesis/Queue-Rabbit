@@ -16,10 +16,13 @@ Esta cola permite la transmisión eficiente y desacoplada de datos entre módulo
 ```bash
 git clone https://github.com/tu-usuario/Queue-Rabbit.git
 cd Queue-Rabbit
+```
 
 ### 2. Levanta el contenedor
+```bash
 En la terminal, indica el siguiente comando:
 docker-compose up
+```
 
 ### 3. Verifica que este corriendo
 Espera unos segundos a que la terminal cargue todas las colas de los micros
