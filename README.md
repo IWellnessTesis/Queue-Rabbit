@@ -29,5 +29,6 @@ Espera unos segundos a que la terminal cargue todas las colas de los micros
 Puedes también acceder a la interfaz web de RabbitMQ en:
 
 🔗 http://localhost:15672
-Usuario: guest
-Contraseña: guest
+- Usuario: user
+- Contraseña: user
+- Nota: puede cambiar en el docker-compose. Pero deben modificar los microservicios para que puedan acceder a la cola.
